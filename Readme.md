@@ -1,7 +1,5 @@
 # Hi there 👋
 
-I'm [Your Name], a passionate developer with a love for coding and creativity!
-
 ## 🔧 Technologies & Tools
 
 ## 📚 Top Languages
